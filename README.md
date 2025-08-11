@@ -1,4 +1,4 @@
-<h1>Hub Central dos Projetos</h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="35" height="35" /> Hub Central dos Projetos</h1>
 
 <p align="justify">Este repositório funciona como um ponto de partida para explorar meus trabalhos no <i>GitHub</i>. Aqui você encontrará uma lista organizada dos meus repositórios, divididos em categorias como <code>Projetos de Treinamento / Bootcamp</code>, <code>Projetos Acadêmicos</code>, <code>Projetos Pessoais</code> e <code>Projetos de Cursos On-line</code>.</p>
 <p align="justify">Cada item contém uma breve <b>descrição</b> e um <b>link direto<b> para que você possa navegar facilmente e conhecer o projeto e sua documentação completa.</p>
@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2 id="repo1">Repositórios de Treinamento / Bootcamp</h2>
+<br><h2 id="repo1">Repositórios de Treinamento / Bootcamp</h2>
 
 <ul>
     <li>
@@ -30,7 +30,7 @@
     </li>
 </ul>
 
-<h2 id="repo2">Repositórios Acadêmicos</h2>
+<br><h2 id="repo2">Repositórios Acadêmicos</h2>
 
 <ul>
     <li>
@@ -46,7 +46,7 @@
     </li>
 </ul>
 
-<h2 id="repo3">Repositórios Pessoais</h2>
+<br><h2 id="repo3">Repositórios Pessoais</h2>
 
 <ul>
     <li>
@@ -61,7 +61,7 @@
     </li>
 </ul>
 
-<h2 id="repo4">Repositórios Projetos de Cursos Online</h2>
+<br><h2 id="repo4">Repositórios Projetos de Cursos Online</h2>
 
 <ul>
     <li>
