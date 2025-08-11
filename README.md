@@ -57,7 +57,7 @@
     <li>
         <h3>Especial <i>README.md</i></h3>
         <p align="justify">Repositório contendo o código-fonte do meu <code>README especial</code> do perfil do <i>GitHub</i>. Todo o código é <b>open source</b> para quem quiser se inspirar ou reutilizar, mas as informações apresentadas são pessoais e privativas a mim.</p>
-        <p align="justify">Repositório disponível em: <a href="hthttps://github.com/MatheusVenturaNellessen/MatheusVenturaNellessen">github.com/MatheusVenturaNellessen/MatheusVenturaNellessen</a>.</p>
+        <p align="justify">Repositório disponível em: <a href="https://github.com/MatheusVenturaNellessen/MatheusVenturaNellessen">github.com/MatheusVenturaNellessen/MatheusVenturaNellessen</a>.</p>
     </li>
 </ul>
 
