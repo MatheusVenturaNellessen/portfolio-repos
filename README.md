@@ -6,10 +6,10 @@
 <details>
     <summary>Menu de Navegação</summary><br>
     <ol>
-        <li><a href="repo1">Projetos de Treinamento / Bootcamp</a></li>
-        <li><a href="repo2">Projetos Acadêmicos</a></li>
-        <li><a href="repo3">Projetos Pessoais</a></li>
-        <li><a href="repo4">Projetos de Cursos On-line</a></li>
+        <li><a href="#repo1">Projetos de Treinamento / Bootcamp</a></li>
+        <li><a href="#repo2">Projetos Acadêmicos</a></li>
+        <li><a href="#repo3">Projetos Pessoais</a></li>
+        <li><a href="#repo4">Projetos de Cursos On-line</a></li>
     </ol>
 </details>
 
