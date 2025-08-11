@@ -1,6 +1,6 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="35" height="35" /> Hub Central dos Projetos</h1>
 
-<p align="justify">Este repositório funciona como um ponto de partida para explorar meus trabalhos no <i>GitHub</i>. Aqui você encontrará uma lista organizada dos meus repositórios, divididos em categorias como <code>Projetos de Treinamento / Bootcamp</code>, <code>Projetos Acadêmicos</code>, <code>Projetos Pessoais</code> e <code>Projetos de Cursos On-line</code>.</p>
+<p align="justify">Este repositório funciona como um ponto de partida para explorar meus trabalhos no <i>GitHub</i>. Aqui você encontrará uma lista organizada dos meus repositórios, divididos em categorias como <code>Projetos de Treinamento / Bootcamp</code>, <code>Projetos Acadêmicos</code>, <code>Projetos Pessoais</code> e <code>Projetos de Cursos Online</code>.</p>
 <p align="justify">Cada item contém uma breve <b>descrição</b> e um <b>link direto<b> para que você possa navegar facilmente e conhecer o projeto e sua documentação completa.</p>
 
 <details>
@@ -9,13 +9,13 @@
         <li><a href="#repo1">Projetos de Treinamento / Bootcamp</a></li>
         <li><a href="#repo2">Projetos Acadêmicos</a></li>
         <li><a href="#repo3">Projetos Pessoais</a></li>
-        <li><a href="#repo4">Projetos de Cursos On-line</a></li>
+        <li><a href="#repo4">Projetos de Cursos Online</a></li>
     </ol>
 </details>
 
 <hr>
 
-<br><h2 id="repo1">Repositórios de Treinamento / Bootcamp</h2>
+<h2 id="repo1">Repositórios de Treinamento / Bootcamp</h2>
 
 <ul>
     <li>
@@ -30,7 +30,9 @@
     </li>
 </ul>
 
-<br><h2 id="repo2">Repositórios Acadêmicos</h2>
+<hr>
+
+<h2 id="repo2">Repositórios Acadêmicos</h2>
 
 <ul>
     <li>
@@ -46,7 +48,9 @@
     </li>
 </ul>
 
-<br><h2 id="repo3">Repositórios Pessoais</h2>
+<hr>
+
+<h2 id="repo3">Repositórios Pessoais</h2>
 
 <ul>
     <li>
@@ -61,7 +65,9 @@
     </li>
 </ul>
 
-<br><h2 id="repo4">Repositórios Projetos de Cursos Online</h2>
+<hr>
+
+<h2 id="repo4">Repositórios Projetos de Cursos Online</h2>
 
 <ul>
     <li>
@@ -84,7 +90,7 @@
     </li>
     <li>
         <h3>Web Calculator</h3>
-        <p align="justify">Projeto desenvolvido durante o curso de <code>JavaScript e TypeScript do básico ao avançado</code>, ministrado por <code>Luiz Otávio Miranda</code>. Este repositório contém uma calculadora on-line desenvolvida em <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.</p>
+        <p align="justify">Projeto desenvolvido durante o curso de <code>JavaScript e TypeScript do básico ao avançado</code>, ministrado por <code>Luiz Otávio Miranda</code>. Este repositório contém uma calculadora online desenvolvida em <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.</p>
         <p align="justify">Repositório disponível em: <a href="https://github.com/MatheusVenturaNellessen/web-calculator">github.com/MatheusVenturaNellessen/web-calculator</a>.</p>
         <p align="justify">Clique <a href="https://matheusventuranellessen.github.io/web-calculator/">aqui</a> para visualizar o site!</p>
     </li>
